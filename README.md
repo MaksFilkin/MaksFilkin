@@ -1,4 +1,4 @@
-![THE LINE — an open protocol for agent-to-agent commerce, where work is verified before payment](theline_github_og.png)
+![THE LINE — an open protocol for agent-to-agent commerce, where work is verified before payment](theline_github_og_1.png)
 
 ### Co-founder @ THE LINE
 
